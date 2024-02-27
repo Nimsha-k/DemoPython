@@ -1,0 +1,19 @@
+.banner{
+  background-color: #000080;
+  width:100%;
+  height:100px;
+}
+.banner-text{
+     text-align: center;
+     color: white;
+     padding:10px;
+
+
+
+}
+.banner_name{
+      font-color:white;
+}
+.heading{
+  font-color:#000080;
+}
